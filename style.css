@@ -173,9 +173,8 @@ input:focus{
 .know-more{
     text-decoration: none;
     color: black;
-    font-size: 18px;
+    font-size: 18px 
 }
-/* Styling the third sectio which is process */
 .padding-section{
     padding: 8% 0;
 }
@@ -213,7 +212,7 @@ input:focus{
 .process-img{
     width: 50px;
 }
-.vertical-line{
+.a-vertical-line{
     border-left: 2px dotted #FF6433;
     height: 50px;
     margin-left: 5%;
@@ -281,7 +280,7 @@ input:focus{
 .offer-link a:hover{
     color: #FF6433;
 }
-/* Styling Get in touch section*/
+
 #contact-us{
     padding-bottom: 8%;
 }
@@ -355,6 +354,6 @@ input:focus{
 #brands{
     padding-bottom: 40px;
 }
-.brand-div{
+.brand-section{
     width: 75%;
 }
